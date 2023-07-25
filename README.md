@@ -25,22 +25,22 @@
 
 <div align="center">
   <img src="screenshots/datatable.PNG" alt="products data list" width="70%"/>
-  <p>Caption for Screenshot 1</p>
+  <p>Products Data List</p>
 </div>
 
 <div align="center">
   <img src="screenshots/create.PNG" alt="create product" width="70%"/>
-  <p>Caption for Screenshot 2</p>
+  <p>Create Product</p>
 </div>
 
 <div align="center">
   <img src="screenshots/edit.PNG" alt="edit product" width="70%"/>
-  <p>Caption for Screenshot 2</p>
+  <p>Edit Product</p>
 </div>
 
 <div align="center">
   <img src="screenshots/search.PNG" alt="search for product" width="70%"/>
-  <p>Caption for Screenshot 2</p>
+  <p>Search For Product</p>
 </div>
 
 ## Technologies Used

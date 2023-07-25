@@ -60,9 +60,13 @@ For the backend code of this project, visit the [Backend Repository](https://git
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
+1. Clone the repository: `git clone https://github.com/chiheb7898/CRUD-ReactJS.git`
 2. Navigate to the project directory: `cd react-products`
 3. Install frontend dependencies: `npm install`
 4. Start the React frontend: `npm start`
+
+## Contributing
+
+Contributions to this project are welcome! If you have any ideas, bug fixes, or feature improvements, feel free to submit pull requests.
 
 

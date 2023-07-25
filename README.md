@@ -25,26 +25,24 @@
 ## Screenshots
 
 <div align="center">
-  <img src="screenshots/create.PNG" alt="Screenshot 1" width="500"/>
+  <img src="screenshots/datatable.PNG" alt="products data list" width="70%"/>
   <p>Caption for Screenshot 1</p>
 </div>
 
 <div align="center">
-  <img src="screenshots/create.PNG" alt="Screenshot 2" width="500"/>
+  <img src="screenshots/create.PNG" alt="create product" width="70%"/>
   <p>Caption for Screenshot 2</p>
 </div>
 
 <div align="center">
-  <img src="screenshots/edit.png" alt="Screenshot 3" width="500"/>
+  <img src="screenshots/edit.PNG" alt="edit product" width="70%"/>
   <p>Caption for Screenshot 2</p>
 </div>
 
 <div align="center">
-  <img src="screenshots/search.png" alt="Screenshot 4" width="500"/>
+  <img src="screenshots/search.PNG" alt="search for product" width="70%"/>
   <p>Caption for Screenshot 2</p>
 </div>
-
-<!-- Add more screenshots if needed -->
 
 ## Technologies Used
 
@@ -53,7 +51,6 @@
 - **Express.js:** A fast and minimalist web application framework for Node.js.
 - **MongoDB:** A NoSQL database for storing product data and images.
 - **Multer:** A middleware for handling multipart/form-data, allowing image uploads.
-- [Other technologies used in your project]
 
 ## Installation
 
@@ -64,25 +61,6 @@
 5. Start the backend server: `cd ../server && npm start`
 6. Start the React frontend: `cd ../client && npm start`
 
-[Add any additional steps required for setup]
-
-## Usage
-
-[Provide instructions on how to use the CRUD functionalities in your application, including how to create, delete, edit, and search products in the data table.]
-
-## Contributing
-
-Contributions to this project are welcome! If you have any ideas, bug fixes, or feature improvements, feel free to submit pull requests.
-
-## License
-
-[Specify the license you are using for your project (e.g., MIT, Apache 2.0)]
-
-
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Available Scripts
 
 In the project directory, you can run:
@@ -90,7 +68,7 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Open [http://localhost:PORT](http://localhost:PORT) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.

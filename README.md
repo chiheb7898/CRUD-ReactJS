@@ -25,12 +25,12 @@
 ## Screenshots
 
 <div align="center">
-  <img src="screenshots/datatable.png" alt="Screenshot 1" width="500"/>
+  <img src="screenshots/create.PNG" alt="Screenshot 1" width="500"/>
   <p>Caption for Screenshot 1</p>
 </div>
 
 <div align="center">
-  <img src="screenshots/create.png" alt="Screenshot 2" width="500"/>
+  <img src="screenshots/create.PNG" alt="Screenshot 2" width="500"/>
   <p>Caption for Screenshot 2</p>
 </div>
 
